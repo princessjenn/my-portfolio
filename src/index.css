@@ -1,5 +1,28 @@
-.red {
+.About-section { 
+    background-color: lavender;
+    display: grid;
+    grid-template-columns: 200px 200px;
+ 
+}
+
+.header {
+
+}
+
+.footer {
+
+}
+
+.navbar {
+
+}
+
+
+
+
+.blog {
     background-color: red;
     display: grid;
     grid-template-columns: 200px 200px;
 }
+
