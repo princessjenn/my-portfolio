@@ -1,4 +1,5 @@
 import React from "react";
+import projects from "../../projectData";
 
 export default function Portfolio() {
   return (
@@ -7,41 +8,15 @@ export default function Portfolio() {
         <h1>Jennifer Eckenrode Portfolio</h1>
       </header>
 
-      <h2>Project Name 1</h2>
-      <p>Description of project</p>
-      <div>
-        <img src="" alt="" />
-      </div>
-
-      <h2>Project Name 2</h2>
-      <p>Description of project</p>
-      <div>
-        <img src="" alt="" />
-      </div>
-
-      <h2>Project Name 3</h2>
-      <p>Description of project</p>
-      <div>
-        <img src="" alt="" />
-      </div>
-
-      <h2>Project Name 4</h2>
-      <p>Description of project</p>
-      <div>
-        <img src="" alt="" />
-      </div>
-
-      <h2>Project Name 5</h2>
-      <p>Description of project</p>
-      <div>
-        <img src="" alt="" />
-      </div>
-
-      <h2>Project Name 6</h2>
-      <p>Description of project</p>
-      <div>
-        <img src="" alt="" />
-      </div>
+      {projects.map((project, index) => (
+        <div key={index}>
+          <h2>{project.name}</h2>
+          <p>{project.description}</p>
+          <div>
+            <img src={project.image} alt={project.name} />
+          </div>
+        </div>
+      ))}
     </section>
   );
 }
