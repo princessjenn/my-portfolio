@@ -3,8 +3,8 @@
 
 }
 
-.avatar-image {
-    width: 200px;
+.avatar-image img {
+    width: 210px;
     height: 200px;
     border-radius: 50%;
 }
