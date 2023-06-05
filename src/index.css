@@ -3,18 +3,24 @@
 
 }
 
-.aboutMe-Header {
+.avatar-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.about-Header {
 
 }
 
-.aboutMe-Section { 
+.about-Section { 
     background-color: lavender;
     display: grid;
     grid-template-columns: 200px 200px;
  
 }
 
-.aboutMe-Footer {
+.about-Footer {
 
 }
 
