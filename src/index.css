@@ -1,26 +1,41 @@
-.About-section { 
+
+.navbar {
+
+}
+
+.aboutMe-Header {
+
+}
+
+.aboutMe-Section { 
     background-color: lavender;
     display: grid;
     grid-template-columns: 200px 200px;
  
 }
 
-.header {
-
-}
-
-.footer {
-
-}
-
-.navbar {
+.aboutMe-Footer {
 
 }
 
 
+.portfolio-Header {
+
+    
+}
+
+.portfolio-Section {
+
+}
 
 
-.blog {
+
+
+
+
+
+
+.resume-Section {
     background-color: red;
     display: grid;
     grid-template-columns: 200px 200px;

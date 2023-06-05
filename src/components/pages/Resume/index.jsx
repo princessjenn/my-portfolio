@@ -1,10 +1,8 @@
 import React from 'react';
-
-//import blahblah from "../../../images/image.png"
-export default function Blog() {
+export default function Resume() {
   return (
-<section className = "blog" >
-      <h1>Blog Page</h1>
+<section className = "resume-Section" >
+      <h1>Resume</h1>
       
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
