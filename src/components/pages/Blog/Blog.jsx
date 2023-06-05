@@ -1,9 +1,11 @@
 import React from 'react';
-
+import portfolio from "./portfolio.module.css"
+//import blahblah from "../../../images/image.png"
 export default function Blog() {
   return (
-    <div>
+<section className = {portfolio.red}>
       <h1>Blog Page</h1>
+      
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
         Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
@@ -19,6 +21,7 @@ export default function Blog() {
         bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
         est ligula suscipit velit, sed bibendum turpis dui in sapien.
       </p>
-    </div>
+    </section>
+
   );
 }
