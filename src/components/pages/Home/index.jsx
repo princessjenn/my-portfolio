@@ -1,4 +1,6 @@
 import React from 'react';
+import portfolio from "./index.css"
+
 
 export default function Home() {
   return (

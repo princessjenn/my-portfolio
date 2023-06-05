@@ -1,9 +1,9 @@
 import React from 'react';
-import portfolio from "./portfolio.module.css"
+import portfolio from "./index.css"
 //import blahblah from "../../../images/image.png"
 export default function Blog() {
   return (
-<section className = {portfolio.red}>
+<section className = {index.red}>
       <h1>Blog Page</h1>
       
       <p>
