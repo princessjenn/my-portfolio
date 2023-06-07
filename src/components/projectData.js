@@ -26,7 +26,8 @@ const projects = [
         image: "",
         repoLink: "https://github.com/princessjenn/Just-Another-Text-Editor.git",
         deployLink: "https://serene-sierra-16900.herokuapp.com/"
-    }, {
+    },
+    {
         name: "Ecommerce Back-End Application",
         description: "A back-end endpoint application for an e-commerce site. I took a working Express.js API and configured it to use Sequelize, and to interact with a MySQL database.",
         image: "",
