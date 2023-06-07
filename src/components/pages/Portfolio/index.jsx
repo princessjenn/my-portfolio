@@ -8,24 +8,14 @@ export default function Portfolio() {
         <h1>Jennifer Eckenrode Portfolio</h1>
       </header>
 
-      {projects.map((project, index) => (
-        <div key={index}>
-          <h2>
-            <a href={project.deployLink} target="_blank" rel="noopener noreferrer">
-              {project.name}
-            </a>
-          </h2>
-          <p>{project.description}</p>
-          <div>
-            <img src={project.image} alt={project.name} />
-          </div>
-          <div>
-            <a href={project.repoLink} target="_blank" rel="noopener noreferrer">
-              Project Repository
-            </a>
-          </div>
-        </div>
-      ))}
+      <div class="grid grid-cols-3 gap-3">
+  <div>01</div>
+  <div>02</div>
+<div>03</div>
+<div>04</div>
+<div>05</div>
+  <div>06</div>
+</div>
     </section>
   );
 }
