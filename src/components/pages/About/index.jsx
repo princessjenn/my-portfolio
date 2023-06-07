@@ -18,7 +18,7 @@ export default function About() {
     //   </p>
     // </div>
     <div className="container m-10 mx-auto rounded-xl border bg-gray-200 p-8 shadow">
-      <p className="mb-5 text-3xl font-bold text-gray-700">
+      <p className="mb-5 text-3xl font-bold text-[#c918cc]">
         Hello, my name is {name}
       </p>
       <div className="avatar">
