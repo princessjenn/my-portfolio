@@ -14,31 +14,31 @@ const projects = [
         deployLink: "https://princessjenn.github.io/Project-01/"
     },
     {
-        name: "Project 3",
-        description: "Description of Project 3",
+        name: "Regex Gist",
+        description: "Comprehensive explanation about Regex and how to use it to validate an email address",
         image: "",
-        repoLink: "https://github.com/princessjenn/",
-        deployLink: "" 
+        repoLink: "",
+        deployLink: "https://gist.github.com/princessjenn/e2685dc2a3a16f4c8be68719826d5a53" 
     },
     {
-        name: "Project 4",
-        description: "Description of Project 4",
+        name: "J.A.T.E.",
+        description: "This Progressive Web Application is built using the web technologies such as HTML, CSS, and JavaScript, making it compatible with multiple platforms and operating systems. It can run on various browsers, including Chrome, Firefox, Safari, and Edge to name a few!",
         image: "",
-        repoLink: "https://github.com/princessjenn/",
-        deployLink: ""
+        repoLink: "https://github.com/princessjenn/Just-Another-Text-Editor.git",
+        deployLink: "https://serene-sierra-16900.herokuapp.com/"
     }, {
-        name: "Project 5",
-        description: "Description of Project 5",
+        name: "Ecommerce Back-End Application",
+        description: "A back-end endpoint application for an e-commerce site. I took a working Express.js API and configured it to use Sequelize, and to interact with a MySQL database.",
         image: "",
-        repoLink: "https://github.com/princessjenn/",
-        deployLink: ""
+        repoLink: "https://github.com/princessjenn/eCommerce-backEnd.git",
+        deployLink: "https://drive.google.com/file/d/1woUtnGcPe3NtoWHof0WC984tjiG0tO7q/view?usp=sharing"
     },
     {
-        name: "Project 6",
-        description: "Description of Project 6",
+        name: "README.md CLI Generator",
+        description: "This application helps a user to generate their own professional, quality README file in the command line interface based upon prompts given for each section of the README. ",
         image: "",
-        repoLink: "https://github.com/princessjenn/",
-        deployLink: ""
+        repoLink: "https://github.com/princessjenn/readme-generator2.git",
+        deployLink: "https://drive.google.com/file/d/1N9E4H69QSdQxUiCXdRrAznX9SNmc6oZp/view?usp=sharing"
     },
 ];
 
