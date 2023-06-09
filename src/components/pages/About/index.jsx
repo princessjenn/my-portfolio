@@ -7,8 +7,10 @@ export default function About() {
     <div className="mockup-window border bg-base-300">
       <div className="flex justify-center bg-base-200 px-4 py-16">
         <div className="hero-content flex-col lg:flex-row-reverse">
-          <div className="avatar rounded">
+          <div className="avatar">
+          <div className="w-82 rounded-full">
             <img src={avatar} alt="Jennifer Eckenrode Avatar" />
+            </div>
           </div>
           <div className="card-body">
             <h2 className="card-title mb-5 text-5xl font-bold text-accent">Hello, my name is {name}!</h2>
