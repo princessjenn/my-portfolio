@@ -2,14 +2,14 @@ const projects = [
     {
         name: "Clifford's Dog Shelter",
         description: "Developed a Full Stack web application for shelter management, allowing users to browse available dogs. Implemented privileged log-in credentials for shelter employees to update, delete, and create dog records.",
-        image: "../../../images/CliffordsDogShelter.gif",
+        image: "../../images/CliffordsDogShelter.gif",
         repoLink: "https://github.com/princessjenn/Project-2",
         deployLink: "https://cliffords-dog-shelter.herokuapp.com/"
     },
     {
         name: "International Kanye",
         description: "Using two web APIs, one to fetch a randomized Kanye West quote, one to translate to spanish. Also uses Local Storage to save user UI theme preference.",
-        image: "../../../images/InternationalKanye.gif",
+        image: "../../images/InternationalKanye.gif",
         repoLink: "https://github.com/princessjenn/Project-01",
         deployLink: "https://princessjenn.github.io/Project-01/"
     },
