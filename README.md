@@ -4,10 +4,7 @@
 
 Deployed Portfolio [here](https://princessjenn.github.io/my-portfolio/),
 
-and
-
 Repository Link [here](https://github.com/princessjenn/my-portfolio.git).
-
 
 
 `GIVEN a single-page application portfolio for a web developer`
