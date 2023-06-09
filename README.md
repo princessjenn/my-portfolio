@@ -2,11 +2,9 @@
 
 ## Description
 
-Deployed Portfolio
-(https://drive.google.com/file/d/1N9E4H69QSdQxUiCXdRrAznX9SNmc6oZp/view?usp=sharing) 
+Deployed Portfolio [here](https://princessjenn.github.io/my-portfolio/) 
 
-Repository Link:
-(https://github.com/princessjenn/my-portfolio.git)
+Repository Link [here](https://github.com/princessjenn/my-portfolio.git)
 
 
 ## Table of Contents
