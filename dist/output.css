@@ -665,36 +665,3 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.navbar {
-}
-
-.avatar-image img {
-  width: 210px;
-  height: 200px;
-  border-radius: 50%;
-}
-
-.about-Header {
-}
-
-.about-Section {
-  background-color: lavender;
-  display: grid;
-  grid-template-columns: 200px 200px;
-}
-
-.about-Footer {
-}
-
-.portfolio-Header {
-}
-
-.portfolio-Section {
-}
-
-.resume-Section {
-  background-color: red;
-  display: grid;
-  grid-template-columns: 200px 200px;
-}
-
