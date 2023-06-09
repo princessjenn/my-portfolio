@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.prefix {
+    color: indigo; /* Set the desired font color */
+    font-size: 78px; /* Set the desired font size */
+    text-outline: white;
+  }

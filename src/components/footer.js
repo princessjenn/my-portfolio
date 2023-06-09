@@ -6,7 +6,7 @@ const Footer = () => {
   const [isClick, setClick] = useState(false);
     return (
 
-<footer className="footer footer-center p-4 bg-base-200 text-base-content">
+<footer className="footer footer-center p-4 bg-transparent text-base-content">
   <div className="flex items-center justify-center">
     <p className="flex items-center">
       Made with{' '}
