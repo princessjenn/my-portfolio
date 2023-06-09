@@ -1,11 +1,8 @@
 import React from "react";
 import avatar from "../../../images/jenniferAvatar2.jpg";
-import { useState } from "react";
-import Heart from "react-animated-heart";
 
 export default function About() {
   const name = "Jennifer Eckenrode";
-  const [isClick, setClick] = useState(false);
   return (
     <div className="mockup-window border bg-base-300">
       <div className="flex justify-center bg-base-200 px-4 py-16">
